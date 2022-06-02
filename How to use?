@@ -1,0 +1,5 @@
+To start recognition process, Attune button will be pressed by user.
+Attune listens to a song clip provided by the user.
+The App generates an unique fingerprint for that clip .
+The application uploads the fingerprint to Attune’s service that runs a search for a corresponding fingerprint in database.
+If a match is found, a user gets the information on the song he is interested in; otherwise he will be informed that the song wasn’t found.
