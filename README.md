@@ -8,3 +8,6 @@ It listens to an audio clip and recognises the song.
 
 
 Attune quickly turns your clip into an audio fingerprint and searches in the database, and if the song is recognised, it’s displayed.
+
+
+Tech used: Flutter, Dart, Deezer API, ACRCloud, Riverpod
